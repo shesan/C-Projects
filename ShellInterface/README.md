@@ -1,6 +1,4 @@
 ## Description and Evaluation Criteria
-**Out:** January 23, 2021 @ 9:00 am    
-**Due:** February 7, 2020 @ 9:00 pm
 
 ### Project Goals:
 1. To dust off your C programming skills.
